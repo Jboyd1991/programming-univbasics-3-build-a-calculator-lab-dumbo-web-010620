@@ -21,5 +21,4 @@ end
 
 def square_root(num)
 math.sqrt(num)
-return num
 end
